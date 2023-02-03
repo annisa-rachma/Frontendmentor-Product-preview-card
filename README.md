@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: <a href="https://github.com/annisa-rachma/Product-preview-card-frontendmentor" target="_blank">Solution</a>
+- Live Site: <a href="https://annisa-rachma.github.io/Product-preview-card-frontendmentor/" target="_blank">Live site</a>
 
 ## My process
 
